@@ -1,0 +1,154 @@
+*{
+    margin: 10px;
+    padding: 0;
+}
+body{
+    background-color: black;
+    align-items: center;
+    text-align: center;
+    margin: 25px;
+    width:100%;
+    margin: 0 auto;
+    min-width:600px;
+    max-width:700px;
+    zoom: 100px;
+    position: fixed;
+}
+li{
+    list-style-type: none;
+}
+.txtpg1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+.alttxt{
+    color: red;
+}
+.txt2{
+    margin: 80px;
+}
+.txtpg2{
+    color: rgb(253, 250, 250);
+    font-size: 30px;
+    font-family: Arial;
+}
+.txtpg3{
+    color: red;
+    font-family: Arial;
+}
+.alttxt3{
+    color: white;
+}
+.img{
+    margin:20px;
+}
+.imgpg{
+    width: 350px;
+    height: 350px;
+}
+.myButton {
+	box-shadow: 0px 0px 0px 0px #c21b1b;
+	background-color:#ff0000;
+	border-radius:28px;
+	border:1px solid #eb3d3d;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:18px;
+	font-weight:bold;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #662828;
+}
+.myButton:hover {
+	background-color:#bd2a2a;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.txt1pt2{
+    color: white;
+    font-size: 30px;
+    font-family: Arial;
+    margin: 90px;
+}
+.alttxt1pt2{
+    color: red;
+}
+.desc{
+    color: white;
+    font-size: 35px;
+    margin: 80px;
+}
+.pt2{
+    margin: 20px;
+}
+.txt2pt2{
+    color: white;
+    font-family: Arial;
+}
+.alttxt2pt2{
+    color: red;
+}
+.icone{
+    color: rgb(236, 55, 55);
+    font-size: 1.9rem;
+}
+.txt1pt3{
+    color: white;
+    font-family: Arial;
+    margin: 80px;
+}
+.txt2pt3{
+    color: white;
+    font-size: 35px;
+}
+.txt1pt4{
+    color:white;
+    font-family: Arial;
+    margin: 95px;
+    font-size: 45px;
+}
+.alttxtpt4{
+    color: red;
+}
+.prc{
+    color: white;
+    font-size: 40px;
+    font-family: Arial;
+}
+.prc1{
+    color:aqua;
+}
+.prc2{
+    color: white;
+    font-size: 40px;
+    font-family: Arial;
+}
+.prcorgn{
+    color:aqua;
+}
+.dvlv{
+    color: white;
+    font-size: 30px;
+    font-family: Arial;
+    margin: 60px;
+}
+.vrml1{
+    color: red;
+}
+.imgpt5{
+    width: 350px;
+    height: 350px;
+}
+.img2pt2{
+    width: 450px;
+    height: 450px;
+}
+#content {
+    transform: scale(1.0);
+    transform-origin: 0 0;
+}
